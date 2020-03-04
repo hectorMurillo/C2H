@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.4084ba384d4ef2df4fb155c5067626f2.js"
+  "./precache-manifest.4084ba384d4ef2df4fb155c5067626f2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "concretos2h"});
